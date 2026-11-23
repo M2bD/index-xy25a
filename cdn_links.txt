@@ -1,0 +1,16 @@
+# MULTIPLIED LINKS (15 total across 1 sites via standard):
+https://cdn.jsdelivr.net/gh/M2bD/index-xy25a@main/v0001/index.svg
+https://fastly.jsdelivr.net/gh/M2bD/index-xy25a@main/v0001/index.svg
+https://gcore.jsdelivr.net/gh/M2bD/index-xy25a@main/v0001/index.svg
+https://testingcf.jsdelivr.net/gh/M2bD/index-xy25a@main/v0001/index.svg
+https://cdn.statically.io/gh/M2bD/index-xy25a/main/v0001/index.svg
+https://rawcdn.githack.com/M2bD/index-xy25a/main/v0001/index.svg
+https://raw.githack.com/M2bD/index-xy25a/main/v0001/index.svg
+https://raw.githubusercontent.com/M2bD/index-xy25a/main/v0001/index.svg
+https://esm.sh/gh/M2bD/index-xy25a@main/v0001/index.svg
+https://raw.esm.sh/gh/M2bD/index-xy25a@main/v0001/index.svg
+https://cdn.jsdelivr.net/gh/M2bD/index-xy25a@main/v0002/index.svg
+https://fastly.jsdelivr.net/gh/M2bD/index-xy25a@main/v0002/index.svg
+https://gcore.jsdelivr.net/gh/M2bD/index-xy25a@main/v0002/index.svg
+https://testingcf.jsdelivr.net/gh/M2bD/index-xy25a@main/v0002/index.svg
+https://cdn.statically.io/gh/M2bD/index-xy25a/main/v0002/index.svg
